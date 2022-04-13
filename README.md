@@ -11,7 +11,7 @@ O projeto consiste na criação de uma tela simples de login fazendo manipulaç�
 - Componentes
 
 <h1 align="center">
-	<img alt="calculadora" src="./public/calculadora.jpg"/>
+	<img alt="calculadora" src="./public/Calculadora.png" width="300px"/>
 </h1>
 
 
