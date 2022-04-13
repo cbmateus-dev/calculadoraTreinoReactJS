@@ -9,20 +9,16 @@ O projeto consiste na criação de uma tela simples de login fazendo manipulaç�
 - ReactJs in function
 - Hooks
 - Componentes
-
+#
 <h1 align="center">
 	<img alt="calculadora" src="./public/Calculadora.png" width="300px"/>
 </h1>
 
-
 #
-
-
 
 Requirements
 - npm
 - yarn
-
 
 *Clone the project and access the folder*
 
