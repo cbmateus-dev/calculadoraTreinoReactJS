@@ -3,7 +3,7 @@
 </h1>
 
 # About the project
-O projeto consiste na criação de uma tela simples de login fazendo manipulação de componentes via React.
+O projeto consiste na criação de uma calculadora simples fazendo manipulação de componentes via React.
 
 # Technologies
 - ReactJs in function
