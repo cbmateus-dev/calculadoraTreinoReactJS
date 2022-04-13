@@ -10,6 +10,10 @@ O projeto consiste na criação de uma tela simples de login fazendo manipulaç�
 - Hooks
 - Componentes
 
+<h1 align="center">
+	<img alt="calculadora" src="./public/calculadora.jpg" width="900px" />
+</h1>
+
 
 #
 
